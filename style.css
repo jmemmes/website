@@ -22,6 +22,7 @@ body {
 
 .dark > .card {
   border: 4px dotted white;
+  transition: all 300ms ease;
 }
 
 .socials {
