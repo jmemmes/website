@@ -25,6 +25,11 @@ body {
   transition: all 300ms ease;
 }
 
+.dark > a {
+  color: white;
+  transition: all 300ms ease;
+}
+
 .socials {
   padding: 16px 0px;
 }
