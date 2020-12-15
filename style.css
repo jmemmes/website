@@ -12,7 +12,7 @@ body {
 .card {
     padding: 16px;
     border-radius: 8px;
-    border: 4px dotted #152852;
+    border: 4px dotted white;
 }
 
 .dark {
@@ -22,11 +22,6 @@ body {
 
 .dark > .card {
   border: 4px dotted white;
-  transition: all 300ms ease;
-}
-
-.dark > a {
-  color: white;
   transition: all 300ms ease;
 }
 
@@ -44,7 +39,7 @@ img {
 }
 
 a {
-    color: #152852;
+    color: white;
     text-decoration: none;
 }
 
