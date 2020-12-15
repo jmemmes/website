@@ -1,5 +1,4 @@
 body {
-    transition: all 300ms ease;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     display: flex;
@@ -11,7 +10,6 @@ body {
 }
 
 .card {
-    transition: all 300ms ease;
     padding: 16px;
     border-radius: 8px;
     border: 4px dotted blueviolet;
