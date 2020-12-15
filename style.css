@@ -5,14 +5,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: white;
+    color: #ffb288;
     background-image: url(https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 }
 
 .card {
     padding: 16px;
     border-radius: 8px;
-    border: 4px dotted blueviolet;
+    border: 4px dotted #ffaac4;
 }
 
 .dark {
