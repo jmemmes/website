@@ -5,14 +5,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color: #ffb288;
+    color: #152852;
     background-image: url(https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 }
 
 .card {
     padding: 16px;
     border-radius: 8px;
-    border: 4px dotted #ffaac4;
+    border: 4px dotted #152852;
 }
 
 .dark {
@@ -39,8 +39,8 @@ img {
 }
 
 a {
-  color: white;
-  text-decoration: none;
+    color: #152852;
+    text-decoration: none;
 }
 
 a:hover {
